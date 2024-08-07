@@ -1,18 +1,16 @@
 
-<h1 align="center">Hi 👋, I'm Thandar Tun</h1>
+<h1 align="center">Hi 👋, I'm Thandar Tun 🌱 </h1>
 <h3 align="center">A full-stack developer who specializes in back-end web development,building scalable and efficient web applications.I thrive on solving complex technical challenges and delivering high-quality solutions.</h3>
 
 <img align='right' alt='Coding' width='400' src='https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thandarannie&label=Profile%20views&color=0e75b6&style=flat" alt="thandarannie" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **thandarannie12@gmail.com**
 
-- ⚡ Fun fact **I eat a lot and I cannot sleep without foods beside me**
+- ⚡ Fun fact **I eat a lot and I can't sleep without foods beside me 🍫**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🔎 :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thandar-tun-28b671238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thandar-tun-28b671238" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19328516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19328516" height="30" width="40" /></a>
